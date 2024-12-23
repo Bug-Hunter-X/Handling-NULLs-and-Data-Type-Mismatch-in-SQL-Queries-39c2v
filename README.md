@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error related to NULL values and data type mismatches in queries.  The `bug.sql` file shows a query that fails to handle NULL salaries correctly, potentially excluding employees with missing salary information. The `bugSolution.sql` file provides solutions to address this issue, making the query more robust.
